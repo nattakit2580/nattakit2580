@@ -7,7 +7,7 @@ AI Engineering and Data Science
 I am a student majoring in Artificial Intelligence Engineering and Data Science, with experience lecturing on SkillLane and Udemy courses. Additionally, I am a freelancer specializing in AI & Data Science on Fastwork.
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [My Portfolio]([[[http://drive.google.com/file/d/16wdRLnZBzu87eFPkkpNG5lmWUgXs0WcD/view?usp=sharing](https://drive.google.com/file/d/1wnLj9ed_5bUJY1-8oLJhm0xsPmWXuPhe/view?usp=sharing)]](https://drive.google.com/file/d/1wnLj9ed_5bUJY1-8oLJhm0xsPmWXuPhe/view?usp=sharing))
+* 🖥️  See my portfolio at [My Portfolio]([http://drive.google.com/file/d/16wdRLnZBzu87eFPkkpNG5lmWUgXs0WcD/view?usp=sharing])
 
 * ✉️  You can contact me at [nattakit.nice2580@gmail.com](mailto:nattakit.nice2580@gmail.com)
 * 🚀  I'm currently working on [misternattakit.com](http://misternattakit.com)
